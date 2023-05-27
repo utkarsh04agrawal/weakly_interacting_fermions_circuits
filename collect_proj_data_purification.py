@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/Users/utkarshagrawal/Documents/Postdoc/U_1_haar')
 import numpy as np
 from evolution_utils import scramble
 from collect_utils import run_proj, save_data
